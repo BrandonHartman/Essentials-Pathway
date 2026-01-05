@@ -1,2 +1,2 @@
 # Essentials-Pathway
-Guided learning pathway to learn the Unity interface
+Guided learning pathway to learn the Unity interface.
