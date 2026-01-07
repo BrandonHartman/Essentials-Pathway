@@ -537,6 +537,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Collectible_Dirt
       objectReference: {fileID: 0}
+    - target: {fileID: 3422113574636650987, guid: 877fcd5487314487a9c51961ddf0b8e8,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -564,6 +569,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4044898df22ac4f48b7b1bdf87f00483, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  rotationSpeed: 0.5
 --- !u!81 &987702660461279805
 AudioListener:
   m_ObjectHideFlags: 0
